@@ -1,0 +1,11 @@
+{
+  "name": "al-noor-grocery-store",
+  "version": "1.0.0",
+  "description": "Al-Noor Grocery Store - Professional Pakistani Kiryana E-Commerce App",
+  "main": "dev-server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node dev-server.js",
+    "dev": "node dev-server.js"
+  }
+}
